@@ -1,0 +1,5 @@
+aiogram
+pymysql
+cryptomus
+AsyncIOScheduler
+datetime
